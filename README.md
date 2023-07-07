@@ -40,13 +40,10 @@ conducting galaxy rotation-curve fitting analyses.
 The project will be conducted under the mentorship of
 researchers at CERN.
 
--Lukas Heinrich (Technical University Munich)
-
--Matthew Feickert (UW-Madison)
-
--Amy Roberts (CU Denver)
-
--Giordon Stark (UC Santa Cruz)
+* Lukas Heinrich (Technical University Munich)
+* Matthew Feickert (UW-Madison)
+* Amy Roberts (CU Denver)
+* Giordon Stark (UC Santa Cruz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

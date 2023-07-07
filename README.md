@@ -33,6 +33,17 @@ As an [IRIS-HEP fellow for 2023](https://iris-hep.org/fellows/Samcoodess.html), 
 conducting galaxy rotation-curve fitting analyses.
 
 [Detailed Project Proposal](https://iris-hep.org/assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf)
+    &nbsp; &nbsp; &nbsp; &nbsp;
+
+
+<a href="https://iris-hep.org/fellows/Samcoodess.html"><img src="images/iris-hep-logo.png" alt="Logo" width="130" height="60"> </a>
+    &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://reana.io/"><img src="images/reana.png" alt="Logo" width="150" height="40"> </a>
+
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Mentors -->
@@ -44,6 +55,19 @@ researchers at CERN.
 * Matthew Feickert (UW-Madison)
 * Amy Roberts (CU Denver)
 * Giordon Stark (UC Santa Cruz)
+
+<p float="left">
+  <img src="images/tmu.png" alt="Logo" width="180" height="80">  
+  &nbsp; &nbsp; &nbsp; &nbsp;    
+  <img src="images/UW-madison.jpeg" alt="Logo" width="180" height="80">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/cu_denver.png" alt="Logo" width="180" height="80">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/uc_santa_cruz.jpg" alt="Logo" width="180" height="80">  
+</p>
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

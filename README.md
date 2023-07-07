@@ -23,23 +23,22 @@
   </ol>
 </details>
 
-
+<hr>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<a href="https://reana.io/"><img src="images/reana.png" alt="Logo" width="200" height="40"> </a>
+
 [REANA](https://reana.io/) is a platform for reproducible data analysis workflows that can be run at scale. REANA has been used extensively for running containerized workflows of LHC experiments, like ATLAS, and for reinterpretation of published analyses. This project would aim to implement a REANA workflow for a galaxy rotation-curve fitting analysis (RCFM) to improve replicability and to provide a starting point for future work.
 
 As an [IRIS-HEP fellow for 2023](https://iris-hep.org/fellows/Samcoodess.html), I will be working alongside my mentors to implement a REANA workflow specifically tailored for
 conducting galaxy rotation-curve fitting analyses.
 
 [Detailed Project Proposal](https://iris-hep.org/assets/pdf/fellows-2023/IRIS000-proposal-Sambridhi-Deo.pdf)
-    &nbsp; &nbsp; &nbsp; &nbsp;
 
 
 <a href="https://iris-hep.org/fellows/Samcoodess.html"><img src="images/Iris-hep-logo.png" alt="Logo" width="130" height="60"> </a>
-    &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://reana.io/"><img src="images/reana.png" alt="Logo" width="150" height="40"> </a>
-
 
 
 
@@ -136,6 +135,19 @@ Project Link: [https://github.com/Samcoodess/reana-dms](https://github.com/Samco
 * [My mentors](#mentors)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p float="center">
+  <img src="images/Iris-hep-logo.png" alt="Logo" width="150" height="100">  
+  &nbsp; &nbsp; &nbsp; &nbsp;    
+  <img src="images/prc.jpeg" alt="Logo" width="150" height="100">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/PICSc.jpg" alt="Logo" width="150" height="100">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/cern.jpeg" alt="Logo" width="150" height="100">  
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/PICSc.jpg" alt="Logo" width="150" height="100">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/nsf.png" alt="Logo" width="150" height="100">  
+</p>
 
 
 

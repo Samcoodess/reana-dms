@@ -1,0 +1,53 @@
+version: 0.9.1
+
+inputs:
+  files:
+    - DataAid.py
+    - DataImporter.py
+    - Neros.py
+    - Neros_test.py
+    - rotCurve.py
+
+  directories:
+    - data_csv_files  #contains all the .csv files
+    - data_dat_files  # Contains .dat Files used as input to model.ipynb
+    - data_txt_files  # .txt files
+    - graphs          # contains generated graphs output of model.ipynb
+    - plots           # contains few plots outputs of model.ipynb
+
+workflow:
+  type: serial
+  specification:
+    environment:
+      name: rcfm:latest
+    steps:
+      - name: data_import
+        commands:
+          - python DataImporter.py
+        inputs:
+          - data_csv_files
+          - data_dat_files
+          - data_txt_files
+        outputs:
+          - name: imported_data
+
+      - name: data_processing
+        commands:
+          - jupyter nbconvert --execute --to notebook --inplace model.ipynb
+        inputs:
+          - name: imported_data
+          - name: DataAid.py
+          - name: Neros.py
+          - name: Neros_test.py
+          - name: rotCurve.py
+        outputs:
+          - name: analysis_results
+
+      - name: generate_plots
+        commands:
+          - jupyter nbconvert --execute --to notebook --inplace model.ipynb
+        inputs:
+          - name: analysis_results
+        outputs:
+          - name: plots
+          - name: graphs

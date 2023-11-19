@@ -1,0 +1,13 @@
+name: rcfm-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas=1.5
+  - matplotlib
+  - notebook
+  - scipy
+  - jupyterlab
+  - nbconvert
+  - jupyter
+
